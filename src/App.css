@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+img{
+  float: right;
+  height: 9.5rem;
+  width: auto;
+  margin-left: 5rem;
+}
+
+.CardText{
+  line-height:1.2em;
+  height:9.7em;
+  overflow:hidden;
+}
